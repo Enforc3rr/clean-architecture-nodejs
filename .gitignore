@@ -1,0 +1,4 @@
+/.idea
+/node_modules
+/clean-archi-nodejs.iml
+/configurations/config.env
